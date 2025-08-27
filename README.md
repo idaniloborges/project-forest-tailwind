@@ -3,6 +3,9 @@
 Projeto de landing page responsiva desenvolvida com **HTML5**, **JavaScript** e **Tailwind CSS**, com foco em uma experiência imersiva na natureza.  
 Inclui **vídeos de fundo**, **animações**, **design responsivo** e **componentes reutilizáveis** do Tailwind.
 
+## Preview
+![Logo Forest](./src/img/forest.png)
+
 ---
 
 ## ✨ Funcionalidades
@@ -21,12 +24,12 @@ Inclui **vídeos de fundo**, **animações**, **design responsivo** e **componen
 ---
 
 ## 🛠️ Tecnologias utilizadas
-
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-
----
+<div>
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+</div>
 
 ## 📂 Estrutura do Projeto
 
@@ -50,8 +53,6 @@ npx tailwindcss -i ./src/input.css -o ./output.css --watch
 ## 4 - Abra o arquivo index.html no navegador.
 
 
-## Preview
-
 ## 📌 Melhorias futuras
 
 Integração real com API de clima (ex: OpenWeather)
@@ -61,4 +62,4 @@ Backend para processar formulários de contato
 Deploy no Vercel ou Netlify**
 
 
-![Logo Forest](./src/img/forest.png)
+
