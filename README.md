@@ -8,6 +8,12 @@ Inclui **vídeos de fundo**, **animações**, **design responsivo** e **componen
 
 ---
 
+## Hospedagem do projeto
+```bash
+https://project-forest-tailwind.netlify.app/
+```
+
+
 ## ✨ Funcionalidades
 
 - 🌤️ **Widget de clima dinâmico** (dia da semana, temperatura e condição do tempo aleatória)  
@@ -55,11 +61,14 @@ npx tailwindcss -i ./src/input.css -o ./output.css --watch
 
 ## 📌 Melhorias futuras
 
-Integração real com API de clima (ex: OpenWeather)
+- [x] Deploy
 
-Backend para processar formulários de contato
+- [ ] Integração real com API de clima (ex: OpenWeather)
 
-Deploy no Vercel ou Netlify**
+- [ ] Backend para processar formulários de contato
+
+
+
 
 
 
